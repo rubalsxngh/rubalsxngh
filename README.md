@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rubal Singh</h1>
 <h5 align="center">Passionately pursuing B.Tech in Information Technology, where each line of code tells a story of innovation. Let's connect and unravel the boundless possibilities together!</h5>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47k2n6a0c9snt2xflpt5f2gprm6tzff9w4gxaiwrsp&rid=giphy.gif&ct=g"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubalsxngh&label=Profile%20views&color=0e75b6&style=flat" alt="rubalsxngh" /> </p>
 
 - 🔭 I’m currently working on **MedGraph-Biomedical-Knowledge-Graph-with-Mondo-Ontology**

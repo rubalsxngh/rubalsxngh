@@ -10,38 +10,12 @@
 
 - Ask me about **DSA, CCNA, NLP, Azure**
 
+- Tools and technologies I'm familier with: **Python**, **SQL**, **Microsoft Azure**, **GNS3** and **Linux**
+
 - How to reach me: **rubalsxngh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rubalsxngh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rubalsxngh" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<!-- Python -->
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-
-<!-- Microsoft Azure -->
-<a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
-  <img src="azure_icon_url" alt="Azure" width="40" height="40"/>
-</a>
-
-<!-- GNS3 -->
-<a href="https://www.gns3.com" target="_blank" rel="noreferrer">
-  <img src="gns3_icon_url" alt="GNS3" width="40" height="40"/>
-</a>
-
-<!-- Cisco Packet Tracer -->
-<a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer">
-  <img src="packet_tracer_icon_url" alt="Packet Tracer" width="40" height="40"/>
-</a>
-
-<!-- SQL -->
-<a href="sql_documentation_url" target="_blank" rel="noreferrer">
-  <img src="sql_icon_url" alt="SQL" width="40" height="40"/>
-</a>
-
+<a href="https://www.credly.com/users/rubal-singh.ee1d4b69" target="_blank"><img align="center" src="https://info.credly.com/hubfs/Credly_images_2022/Logo.svg" alt="Credly" height="30" width="40" /></a>
 </p>

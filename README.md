@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rubal Singh</h1>
 <h4 align="center">Passionately pursuing B.Tech in Information Technology, where each line of code tells a story of innovation. Let's connect and unravel the boundless possibilities together!</h4>
 
-- I’m currently working on **MedGraph-Biomedical-Knowledge-Graph-with-Mondo-Ontology**
+- I’m currently working on **MedGraph-Biomedical-Knowledge-Graph-with-Mondo-Ontology**, **vizmiz-missing-value-visualizer**
 
 - I’m currently learning **Machine Learning**, **Python**, **NLP** and **Azure**
 

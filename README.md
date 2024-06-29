@@ -1,15 +1,13 @@
-<h1 align="center">Hi, I'm Rubal Singh</h1>
-<h4 align="center">Passionately pursuing B.Tech in Information Technology, where each line of code tells a story of innovation. Let's connect and unravel the boundless possibilities together!</h4>
+<h1 align="center">Hi, I'm rubalsxngh</h1>
+<h4 align="center">Passionately about Ethical Hacking and Blue teaming</h4>
 
-- I’m currently working on **MedGraph-Biomedical-Knowledge-Graph-with-Mondo-Ontology**, **vizmiz-missing-value-visualizer**
+- I’m currently learning **SIEM**, **SOAR**, **VMDR** and **Azure**
 
-- I’m currently learning **Machine Learning**, **Python**, **NLP** and **Azure**
+- I’m looking to collaborate on **anything_cyber_security**
 
-- I’m looking to collaborate on **NLP, Python, CCNA and GNS3 projects**
+- Ask me about **SOC, NOC, Azure**
 
-- Ask me about **DSA, CCNA, NLP, Azure**
-
-- Tools and technologies I'm familier with: **Python**, **SQL**, **Microsoft Azure**, **GNS3** and **Linux**
+- Tools and technologies I'm familier with: **Python**, **Splunk**, **Elastic**, **Qualys**, **Windows** and **Linux**
 
 - How to reach me: **rubalsxngh@gmail.com**
 

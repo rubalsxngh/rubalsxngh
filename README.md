@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm rubalsxngh</h1>
-<h4 align="center">Passionately about Ethical Hacking and Blue teaming</h4>
+<h4 align="center">Passionate about Ethical Hacking and Blue teaming</h4>
 
 - I’m currently learning **SIEM**, **SOAR**, **VMDR** and **Azure**
 

@@ -1,13 +1,11 @@
 <h1 align="center">Hi, I'm rubalsxngh</h1>
 <h4 align="center">Passionate about Ethical Hacking and Blue teaming</h4>
 
-- I’m currently learning **SIEM**, **SOAR**, **VMDR** and **Azure**
-
-- I’m looking to collaborate on **anything_cyber_security**
+- Endpoint Security Engineer
 
 - Ask me about **SOC, NOC, Azure**
 
-- Tools and technologies I'm familier with: **Python**, **Splunk**, **Elastic**, **Qualys**, **Windows** and **Linux**
+- Tools and technologies I'm familier with: **CrowdStrike**, **Splunk**, **Elastic**, **Qualys**, **Windows** and **Linux**
 
 - How to reach me: **rubalsxngh@gmail.com**
 

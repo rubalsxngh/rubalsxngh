@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm rubalsxngh</h1>
 <h4 align="center">Passionate about Ethical Hacking and Blue teaming</h4>
 
-- Endpoint Security Engineer
+- SOC L1, currently learning digital forensics and malware analysis.
 
 - Ask me about **SOC, NOC, Azure**
 

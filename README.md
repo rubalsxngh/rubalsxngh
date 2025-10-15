@@ -7,8 +7,6 @@
 
 - Tools and technologies I'm familier with: **CrowdStrike**, **Splunk**, **Elastic**, **Qualys**, **Windows** and **Linux**
 
-- How to reach me: **rubalsxngh@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rubalsxngh" target="_blank"><img align="center" src="https://i.imgur.com/rwYRqn6.png" alt="rubalsxngh" height="30" width="40" /></a>
